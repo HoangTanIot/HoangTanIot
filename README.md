@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hoàng Tân</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
+
 <img align="right alt="coding" width="400" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9528b7alqvdv4ta1sgzqc3g63kxucsuho5mrqelifq4&ep=v1_gifs_search&rid=200w.gif&ct=g">
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Track Back**
