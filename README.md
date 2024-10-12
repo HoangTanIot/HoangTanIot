@@ -1,29 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hoàng Tân</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
-<!DOCTYPE html>
-<html lang="vi">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chèn Ảnh Bên Phải</title>
-    <style>
-        .image-container {
-            text-align: right;
-        }
-        .image-container img {
-            width: 300px; /* Điều chỉnh kích thước ảnh theo ý muốn */
-            height: auto;
-        }
-    </style>
-</head>
-<body>
-
-<div class="image-container">
-    <img src="https://backiee.com/static/wallpapers/1000x563/386741.jpg" alt="Hình nền" />
-</div>
-
-</body>
-</html>
+![Uploading image.png…]()
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
