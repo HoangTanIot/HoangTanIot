@@ -1,50 +1,27 @@
 <h1 align="center">Hi 👋, I'm Hoàng Tân</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Achievements and Background</title>
+    <title>Chèn Ảnh Bên Phải</title>
     <style>
-        body {
-            display: flex;
-            justify-content: space-between;
-            font-family: Arial, sans-serif;
+        .image-container {
+            text-align: right;
         }
-        .container {
-            display: flex;
-            width: 100%;
-        }
-        .achievements {
-            flex: 1;
-            padding: 20px;
-        }
-        .background-image {
-            flex: 1;
-            background-image: url('https://backiee.com/static/wallpapers/1000x563/386741.jpg');
-            background-size: cover;
-            background-position: center;
-            height: 500px; /* Adjust height as needed */
+        .image-container img {
+            width: 300px; /* Điều chỉnh kích thước ảnh theo ý muốn */
+            height: auto;
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <div class="achievements">
-            <h2>My Achievements</h2>
-            <p>🏆 Total Stars Earned: 1</p>
-            <p>🔢 Total Commits (2024): 5</p>
-            <p>🔗 Total PRs: 0</p>
-            <p>🐞 Total Issues: 0</p>
-            <p>📅 Contributed to (last year): 0</p>
-            <h3>Contributions</h3>
-            <p>13 Total Contributions</p>
-            <p>Current Streak: 1</p>
-            <p>Longest Streak: 2</p>
-        </div>
-        <div class="background-image"></div>
-    </div>
+
+<div class="image-container">
+    <img src="https://backiee.com/static/wallpapers/1000x563/386741.jpg" alt="Hình nền" />
+</div>
+
 </body>
 </html>
 
